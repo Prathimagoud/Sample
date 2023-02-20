@@ -19,7 +19,9 @@ public class App
              System.out.println("final block");
         }
             
-        
+        if(true){
+            System.out.println("true block");
+        }
             
     }
    // public void method1(
