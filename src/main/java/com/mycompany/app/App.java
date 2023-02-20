@@ -13,7 +13,7 @@ public class App
         System.out.println("A NullPointerException is a drag...");
         Object myObject = null;
         String nullStr = null;
-        System.out.println("print null string.."+nullStr.length);
+        System.out.println("print null string.."+nullStr.length());
         
         try{
             System.out.println("myObject: " + myObject.toString());
