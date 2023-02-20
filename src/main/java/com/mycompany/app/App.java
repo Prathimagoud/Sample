@@ -15,9 +15,9 @@ public class App
         
         try{
             System.out.println("myObject: " + myObject.toString());
-        }catch(Exception e){
-            
         }
+            
+        
             
     }
 }
