@@ -18,7 +18,7 @@ public class App
         try{
             System.out.println("myObject: " + myObject.toString());
         }catch(Exception e){
-             System.out.println(e.printStackTrace());
+            e.printStackTrace();
         }
             
         if(true){
