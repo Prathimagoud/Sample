@@ -17,8 +17,8 @@ public class App
         
         try{
             System.out.println("myObject: " + myObject.toString());
-        }finally{
-             System.out.println("final block");
+        }catch(Exception e){
+             System.out.println(e.printStackTrace());
         }
             
         if(true){
