@@ -15,9 +15,12 @@ public class App
         
         try{
             System.out.println("myObject: " + myObject.toString());
+        }finally{
+             System.out.println("final block");
         }
             
         
             
     }
+   // public void method1(
 }
