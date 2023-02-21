@@ -15,11 +15,7 @@ public class App
         String nullStr = null;
         System.out.println("print null string.."+nullStr.length());
         
-        try{
-            System.out.println("myObject: " + myObject.toString());
-        }catch(Exception e){
-            e.printStackTrace();
-        }
+        
             
         if(true){
             System.out.println("true block");
