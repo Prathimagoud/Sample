@@ -24,6 +24,7 @@ public class App
         if(true){
             System.out.println("true block");
         }
+        DummyFile dummyObj = new DummyFile();
             
     }
    // public void method1(
