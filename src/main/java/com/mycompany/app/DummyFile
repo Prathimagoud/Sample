@@ -1,9 +1,0 @@
-package com.mycompany.app;
-
-public class DummyFile {
-	
-	String emptyVal = null;
-	
-	System.out.println("print null string.."+emptyVal.length());
-
-}
