@@ -1,5 +1,5 @@
 package com.mycompany.app;
-
+import com.mycompany.app.DummyFile;
 /**
  * Hello world!
  *
